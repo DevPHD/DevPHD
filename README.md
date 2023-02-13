@@ -1,7 +1,7 @@
 ### Hello World!👋
 
 
-- 🌱 const learning = [ 'Javascript', 'Java', 'HTML5', 'CSS3', 'Bootstrap', 'Tailwind', 'React.js', 'MongoDB', 'MySQL' ];
+- 🌱 const learning = Javascript, Java, HTML5, CSS3, Bootstrap, Tailwind, React.js, MongoDB, MySQL.
 <br><br>
  <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevPHD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
